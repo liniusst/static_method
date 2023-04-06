@@ -1,0 +1,1 @@
+Create a class method to return the list of prime numbers up to a given number.
